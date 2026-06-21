@@ -1,0 +1,2 @@
+# Place the external helper headers here: vector3.h and quaternion.h
+# (namespace aut4). See README.md -> "Abhängigkeiten im Code".
